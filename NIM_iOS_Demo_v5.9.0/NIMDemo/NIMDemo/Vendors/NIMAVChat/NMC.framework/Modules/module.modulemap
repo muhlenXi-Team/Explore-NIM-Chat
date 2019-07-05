@@ -1,0 +1,6 @@
+framework module NMC {
+  umbrella header "NMC.h"
+
+  export *
+  module * { export * }
+}

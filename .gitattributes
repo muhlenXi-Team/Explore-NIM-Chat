@@ -1,0 +1,2 @@
+NIMSDK.framework filter=lfs diff=lfs merge=lfs -text
+NMC.framework filter=lfs diff=lfs merge=lfs -text
